@@ -1,3 +1,4 @@
+#indian kirana store billing calculator and receipt generator
 sum = 0
 while (True):
 	userInput = input("Enter the item price or press q to quit: \n")
